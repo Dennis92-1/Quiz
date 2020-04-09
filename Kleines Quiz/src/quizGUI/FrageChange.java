@@ -1,3 +1,4 @@
+package quizGUI;
 
 public class FrageChange {
 	
